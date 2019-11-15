@@ -1,0 +1,10 @@
+D:\Уроки Нисковский Дима\leason 9\leason 9\bin\Debug\leason 9.exe.config
+D:\Уроки Нисковский Дима\leason 9\leason 9\bin\Debug\leason 9.exe
+D:\Уроки Нисковский Дима\leason 9\leason 9\bin\Debug\leason 9.pdb
+D:\Уроки Нисковский Дима\leason 9\leason 9\obj\Debug\leason 9.csprojAssemblyReference.cache
+D:\Уроки Нисковский Дима\leason 9\leason 9\obj\Debug\leason_9.Form1.resources
+D:\Уроки Нисковский Дима\leason 9\leason 9\obj\Debug\leason_9.Properties.Resources.resources
+D:\Уроки Нисковский Дима\leason 9\leason 9\obj\Debug\leason 9.csproj.GenerateResource.cache
+D:\Уроки Нисковский Дима\leason 9\leason 9\obj\Debug\leason 9.csproj.CoreCompileInputs.cache
+D:\Уроки Нисковский Дима\leason 9\leason 9\obj\Debug\leason 9.exe
+D:\Уроки Нисковский Дима\leason 9\leason 9\obj\Debug\leason 9.pdb
